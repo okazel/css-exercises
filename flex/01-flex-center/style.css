@@ -8,7 +8,7 @@
   justify-content: center;
 }
 
-.box {
+.box {        
   background: palevioletred;
   font-weight: bold;
   text-align: center;
@@ -16,4 +16,4 @@
   width: 80px;
   height: 80px;
 
-}
+}                                                             
